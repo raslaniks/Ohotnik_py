@@ -1,0 +1,4 @@
+pandas~=1.4.2
+aiogram~=2.20
+fuzzywuzzy~=0.18.0
+telebot~=0.0.4
