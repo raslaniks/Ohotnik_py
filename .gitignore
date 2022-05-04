@@ -152,3 +152,5 @@ cython_debug/
 main_old.py
 scratch.py
 
+!/requirements.txt
+!/main.py
