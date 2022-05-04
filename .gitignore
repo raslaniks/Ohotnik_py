@@ -151,3 +151,4 @@ cython_debug/
 .idea/vcs.xml
 main_old.py
 scratch.py
+!/requirements.txt
